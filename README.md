@@ -2,7 +2,9 @@
 ## Cargo
 - Rust build system
 
-
+## framework
+- Rocket framework: API
+- Diesel: ORM framework
 
 
 ### references
